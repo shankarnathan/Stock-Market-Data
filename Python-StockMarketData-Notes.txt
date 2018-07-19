@@ -2,7 +2,11 @@ July 18, 2018
 Tutorial on using Python for time-series data (stock market)
 (https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/)
 
-Packages used:
+Uses:
   - quandl
   - pandas_datareader
+  - Jupyter
+  - Matplotlib
+  - Anaconda3/python 3.6.5
+
 

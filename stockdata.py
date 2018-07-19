@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt     # matplotlib for pandas.Dataframe.plot()
 # %matplotlib inline
 # Control the default size of figures in this Jupyter notebook
 # %pylab inline
-pylab.rcParams['figure.figsize'] = (15, 9)   # Change the size of plots
+# pylab.rcParams['figure.figsize'] = (15, 9)   # Change the size of plots
 
 # setup parameters for quandl.get()
 start = datetime.datetime(2018, 1, 1)
